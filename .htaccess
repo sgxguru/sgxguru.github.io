@@ -1,4 +1,4 @@
 DirectoryIndex index.html index.htm
 IndexIgnore *
 ServerSignature Off
-ErrorDocument 404 /error_pages/404.html
+
